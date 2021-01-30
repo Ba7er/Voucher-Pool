@@ -1,0 +1,11 @@
+node_modules
+playGround
+.tmp
+server/.env
+.vscode
+.DS_Store
+.env
+certs/
+play
+.env.*
+.envCopy

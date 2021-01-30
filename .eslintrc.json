@@ -1,0 +1,21 @@
+{
+  "extends": "airbnb-base",
+  "parserOptions": {
+    "ecmaVersion": 2020
+  },
+  "rules": {
+    "no-multi-assign": 0,
+    "no-underscore-dangle": 0,
+    "max-len": 0,
+    "no-plusplus": 0,
+    "camelcase": 0,
+    "no-useless-catch": 0,
+    "no-nested-ternary": 0,
+    "class-methods-use-this": 0,
+    "no-param-reassign": 0,
+    "no-shadow": 0,
+    "indent": ["error", 4],
+    "no-lonely-if": 0,
+    "no-multiple-empty-lines": ["warn", { "max": 1, "maxEOF": 1 }]
+  }
+}
