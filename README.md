@@ -29,7 +29,8 @@ COSMOS_DB_KEY=
 COSMOS_DB_DATABASEID=
 
 ```
-
+##### Documentation 
+After cloning the and installing the dependencies please visit the [Docs](http://localhost:3001/documentation#/) 
   
 
 ### Directory structure
