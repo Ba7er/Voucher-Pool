@@ -77,6 +77,8 @@ The way the special offers which are linked to voucher validated are based on np
 
 ### Area of Enhancement 
 1- More unit testing to cover all possible edge cases 
+
+
 2- Adding more routes such as ['GET /validation-rules/{id}'] | ['GET /redemption/{id}'] and many more depends on the need.
 
 
