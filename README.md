@@ -83,6 +83,9 @@ The way the special offers which are linked to voucher validated are based on np
 2- Adding more routes such as ['GET /validation-rules/{id}'] | ['GET /redemption/{id}'] and many more depends on the need.
 
 
+3- Adding routes to handel "refund" and rolling back the voucher
+
+
 ## How it works
 1- First create new customer by using below endpoint (please refer to documention provided in [`http://localhost:3001/documentation#/`]
 ```sh
