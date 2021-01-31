@@ -85,6 +85,9 @@ The way the special offers which are linked to voucher validated are based on np
 
 3- Adding routes to handel "refund" and rolling back the voucher
 
+4- In the assesment discreption, you mentioned something about Customer entity.
+I only created a DB model for this entity just to simulate the integration with a Customer backend soltuin, assuming that all related customer information are handled in other microservice
+
 
 ## How it works
 1- First create new customer by using below endpoint (please refer to documention provided in [`http://localhost:3001/documentation#/`]
